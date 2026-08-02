@@ -34,6 +34,8 @@ Scatter plots using logarithmic population density to reduce the influence of ex
 Figure 3.Log-Temperature–Density Relationship for Large Urban Areas.
 Analysis restricted to larger built-up areas demonstrates that the positive association between temperature and population density remains present, although the relationship is still relatively weak.
 
+
+
 LARGER URBAN AREAS RESULTS
 1990
 Correlation coefficient (r): 0.2862
