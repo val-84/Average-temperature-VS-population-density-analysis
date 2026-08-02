@@ -3,6 +3,7 @@
 
 
 Methodology
+
 -Imported and cleaned global datasets containing city population density and average annual temperature.
 
 -Merged the datasets using common city identifiers to create a single analytical dataset.
