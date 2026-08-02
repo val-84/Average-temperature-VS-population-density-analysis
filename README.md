@@ -3,14 +3,21 @@
 
 
 Methodology
-Imported and cleaned global datasets containing city population density and average annual temperature.
-Merged the datasets using common city identifiers to create a single analytical dataset.
-Calculated population density metrics and applied logarithmic transformations to reduce the effect of extreme values.
-Performed exploratory data analysis using scatter plots and descriptive statistics to identify overall trends.
-Fitted linear regression models to quantify the relationship between temperature and population density.
-Compared models using both raw and log-transformed population density to assess how data transformation affects the results.
-Produced publication-quality visualisations illustrating the distribution of observations, fitted regression lines, and the overall relationship between urban density and temperature.
-Interpreted the statistical results to evaluate whether population density is a significant predictor of average urban temperature and discussed the limitations of using a single explanatory variable.
+-Imported and cleaned global datasets containing city population density and average annual temperature.
+
+-Merged the datasets using common city identifiers to create a single analytical dataset.
+
+-Calculated population density metrics and applied logarithmic transformations to reduce the effect of extreme values.
+
+-Performed exploratory data analysis using scatter plots and descriptive statistics to identify overall trends.
+
+-Fitted linear regression models to quantify the relationship between temperature and population density.
+
+-Compared models using both raw and log-transformed population density to assess how data transformation affects the results.
+
+-Produced publication-quality visualisations illustrating the distribution of observations, fitted regression lines, and the overall relationship between urban density and temperature.
+
+-Interpreted the statistical results to evaluate whether population density is a significant predictor of average urban temperature and discussed the limitations of using a single explanatory variable.
 
 RESULTS:
 Scatter plots and Pearson correlation analysis were used to examine the relationship between population density and average temperature in urban areas for 1990, 2000 and 2015. The plots showed a weak positive relationship across all three years, meaning that areas with higher temperatures tended to have slightly higher population densities. However, the data points were widely spread out, suggesting that the relationship is not particularly strong. A number of highly populated cities also appeared as outliers, highlighting large differences between urban areas around the world.
