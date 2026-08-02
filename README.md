@@ -42,17 +42,27 @@ Analysis restricted to larger built-up areas demonstrates that the positive asso
 
 
 LARGER URBAN AREAS RESULTS
+
 1990
+
 Correlation coefficient (r): 0.2862
+
 P-value: 0.046205
+
 Result: Statistically significant
 
 2000
+
 Correlation coefficient (r): 0.3476
+
 P-value: 0.014385
+
 Result: Statistically significant
 
 2015
+
 Correlation coefficient (r): 0.3917
+
 P-value: 0.005379
+
 Result: Statistically significant
