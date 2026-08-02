@@ -1,9 +1,6 @@
 # Average-temperature-VS-population-density-analysis
-# The aim of this project was to analyse if avgerage temperatures are affected by population density in big cities. (Please download the csv files before running the code)
+# The aim of this project investigates the relationship between urban population density and average annual temperature across cities worldwide. By combining global urban population data with temperature observations, the analysis explores whether more densely populated urban areas tend to experience higher average temperatures. The project also examines whether transforming population density improves the interpretation of this relationship and highlights the influence of urbanisation on local climate patterns.. (Please download the csv files before running the code)
 
-Project Aim
-
-This project investigates the relationship between urban population density and average annual temperature across cities worldwide. By combining global urban population data with temperature observations, the analysis explores whether more densely populated urban areas tend to experience higher average temperatures. The project also examines whether transforming population density improves the interpretation of this relationship and highlights the influence of urbanisation on local climate patterns.
 
 Methodology
 Imported and cleaned global datasets containing city population density and average annual temperature.
